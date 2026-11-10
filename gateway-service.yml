@@ -11,8 +11,8 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8070/eureka/
 
-logging:
-  level:
-    org.springframework.security: DEBUG
-    org.springframework.cloud.gateway: INFO
-    org.springframework.web: INFO
+#logging:
+#  level:
+#    org.springframework.security: DEBUG
+#    org.springframework.cloud.gateway: INFO
+#    org.springframework.web: INFO
